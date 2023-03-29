@@ -3,7 +3,7 @@
 ## factorial(__x: SupportsIndex,) 
 找到x的的阶乘，即x!,x可为常数或者变量
 
-## ep:
+## e.g.:
 ```python
 print(math.factorial(4)) 
 ```

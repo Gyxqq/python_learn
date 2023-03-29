@@ -5,7 +5,7 @@
  - file 一个流，在默认情况下是sys.stdout即标准输入输出流，会将结果打印到屏幕，也可以是一个文件流 
 - flush 是否强制刷新输出流，可为True 或者 False 
 
-## ep:
+## e.g.:
 ```python
 print(1,2,3,sep='0',end='#') 
 

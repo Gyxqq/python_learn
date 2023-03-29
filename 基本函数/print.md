@@ -5,4 +5,4 @@ end 为输出结尾的字符，'\n'表示结尾输出换行符，如改为end=''
 ## ep:
 print(1,2,3,sep='0',end='#')
 print("2342","234",sep='\t',end='')
-[点击这里试一试]()
+[点击这里试一试](https://gyxqq-crispy-bassoon-979qvpq9jgpcpxg6.github.dev/)

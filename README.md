@@ -4,3 +4,4 @@
 # 分支
 - ## [基本函数](https://github.com/Gyxqq/python_learn/tree/main/%E5%9F%BA%E6%9C%AC%E5%87%BD%E6%95%B0)
 - ## [标准库](https://github.com/Gyxqq/python_learn/tree/main/%E6%A0%87%E5%87%86%E5%BA%93)
+- ## [语法]（https://github.com/Gyxqq/python_learn/tree/main/%E8%AF%AD%E6%B3%95）
